@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e6002be-3660-4249-9a00-8142fed5bde0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dyR99D6hQjF4xplO1bGHfNzjS1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="main" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Github\DDO LFM Viewer\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="DDO LFM Viewer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e6002be-3660-4249-9a00-8142fed5bde0" name="Default Changelist" comment="" />
+      <created>1593395191345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593395191345</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="184" key="#Project_Structure" timestamp="1593395219484">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="184" key="#Project_Structure/0.0.1920.1050@0.0.1920.1050" timestamp="1593395219484" />
+    <state x="765" y="209" key="#com.intellij.ide.util.MemberChooser" timestamp="1593647878270">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="765" y="209" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1593647878270" />
+    <state x="756" y="410" width="408" height="238" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1593646302574">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="756" y="410" width="408" height="238" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1050@0.0.1920.1050" timestamp="1593646302574" />
+    <state x="690" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593646898512">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1593646898512" />
+    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1593821309942">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1593821309942" />
+    <state width="1877" height="264" key="GridCell.Tab.0.bottom" timestamp="1593821984405">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1593821984405" />
+    <state width="1877" height="264" key="GridCell.Tab.0.center" timestamp="1593821984405">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="264" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1593821984405" />
+    <state width="1877" height="264" key="GridCell.Tab.0.left" timestamp="1593821984404">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="264" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1593821984404" />
+    <state width="1877" height="264" key="GridCell.Tab.0.right" timestamp="1593821984405">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="264" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1593821984405" />
+    <state width="938" height="352" key="GridCell.Tab.1.bottom" timestamp="1593408463904">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="352" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1593408463904" />
+    <state width="938" height="352" key="GridCell.Tab.1.center" timestamp="1593408463904">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="352" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1593408463904" />
+    <state width="938" height="352" key="GridCell.Tab.1.left" timestamp="1593408463904">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="352" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1593408463904" />
+    <state width="938" height="352" key="GridCell.Tab.1.right" timestamp="1593408463904">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="352" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1593408463904" />
+  </component>
+</project>
