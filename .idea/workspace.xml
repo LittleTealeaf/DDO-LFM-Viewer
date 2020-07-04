@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e6002be-3660-4249-9a00-8142fed5bde0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/AuditAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/AuditAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,10 +86,10 @@
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="184" key="#Project_Structure" timestamp="1593395219484">
+    <state x="552" y="184" key="#Project_Structure" timestamp="1593823265615">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="184" key="#Project_Structure/0.0.1920.1050@0.0.1920.1050" timestamp="1593395219484" />
+    <state x="552" y="184" key="#Project_Structure/0.0.1920.1050@0.0.1920.1050" timestamp="1593823265615" />
     <state x="765" y="209" key="#com.intellij.ide.util.MemberChooser" timestamp="1593647878270">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
