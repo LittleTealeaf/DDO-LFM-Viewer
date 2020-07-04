@@ -9,4 +9,5 @@ module DDOLFMViewer {
     requires javafx.controls;
     requires com.google.gson;
     requires net.harawata.appdirs;
+    requires java.desktop;
 }
